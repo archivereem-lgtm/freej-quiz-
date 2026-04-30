@@ -52,7 +52,7 @@ function showResult() {
   title.textContent = result;
 
   if (result === "Um Khammas") {
-    image.src = "images/khammasgloss.png";
+    image.src = "khammasgloss.png";
     text.innerHTML =
 `You’re the type who can’t stay quiet, even if you try. If something feels wrong, you’ll say it immediately. People might think you’re too much sometimes, but honestly, you just care deeply and don’t fake things. You have a strong personality, but you’re also generous in your own way. You’ll argue with someone… then still send them food later 😭
 
@@ -64,7 +64,7 @@ Wear your match!`;
   }
 
   else if (result === "Um Saloom") {
-    image.src = "images/saloomgloss.png";
+    image.src = "saloomgloss.png";
     text.innerHTML =
 `You have a soft heart and it shows in everything you do. You trust people easily and always assume good intentions, even when you probably shouldn’t 😭 You might get influenced by others, but it comes from being kind, not weak. People feel comfortable around you because you’re genuine and never judgmental.
 
@@ -76,7 +76,7 @@ Wear your match!`;
   }
 
   else if (result === "Um Saeed") {
-    image.src = "images/saeedgloss.png";
+    image.src = "saeedgloss.png";
     text.innerHTML =
 `You’re the one people turn to when things feel messy. You don’t rush, you think. You always seem to know what to say, and somehow your words actually calm people down. You value respect and doing things properly, even if others don’t always get it. You’re not loud, but your presence is strong.
 
@@ -89,7 +89,7 @@ Wear your match!`;
   }
 
   else if (result === "Um Allawi") {
-    image.src = "images/allawigloss.png";
+    image.src = "allawigloss.png";
     text.innerHTML =
 `You notice things others miss. Whether it’s trends, situations, or people’s behavior, you just get it. You’re more aware and open to change, but you still stay grounded. You’re the one explaining things to others or helping them understand what’s going on. Quietly smart, but not in an obvious way.
 
